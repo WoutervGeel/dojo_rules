@@ -5,4 +5,4 @@ Bad practices
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
-Always starting the day sad
+Always starting the day sad!
